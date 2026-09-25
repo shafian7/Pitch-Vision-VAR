@@ -1,0 +1,32 @@
+# Virtual Environments
+var_env/
+
+# Byte-Compiled / Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# YOLO & Machine Learning Weights / Outputs
+*.pt
+*.onnx
+*.engine
+runs/
+
+# Video & Media Assets 
+*.mp4
+*.avi
+*.mov
+*mkv
+sample_video.mp4
+output_tracked.mp4
+output_team_classified.mp4
+
+# IDEs and System Files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
